@@ -4,6 +4,7 @@ int main(void){
     for(i=1;i<=9;i++){
         sums += i;
     }
+    
     return 0;
 }
 //2018.12.18
